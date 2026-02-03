@@ -7,10 +7,12 @@ body {
   font-weight: bold;
   text-decoration: underline;
 }
+
 #uniek {
   color: darkgreen;
   font-style: italic;
 }
+
 .red {
   color: red;
 }
